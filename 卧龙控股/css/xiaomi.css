@@ -1,0 +1,284 @@
+*{margin: 0;padding: 0;}
+ul{list-style: none;}
+img{display: block;
+    border: 0px;}
+a{text-decoration: none;}
+
+.l{float: left;}
+.r{float: right;}
+.clear::after{content: "";
+    display: block;
+    clear: both;}
+
+.container{
+    width: 1226px;
+    margin: 0 auto;
+}
+.container-fluid{
+    width: 1263px;
+    margin: 0 auto;
+}
+
+#head{
+    background: #000000;
+}
+.header{
+    height: 40px;
+     line-height: 40px;
+    overflow: hidden;
+}    
+.header a{
+    font-size: 12px;
+    color: #b0b0b0;
+}
+.header a:hover{
+    color: #ffffff;
+}
+.header span{
+    color:#424242;
+}
+
+.header_list{
+    margin-left: -8px;
+}
+.header a{
+    padding-left: 8px;
+    padding-right: 9px;
+}
+.header_login{
+    width: 112px;
+    margin-left: 421px;
+    text-align: center;
+}
+#head .header_login .goin{
+    border-right: 1px solid #424242;
+} 
+.header_shop{
+    width: 120px;
+    height: 40px; 
+    background: #424242;
+    text-align: center;
+}
+.header_shop i{
+    font-size: 20px;
+    line-height: 20px;
+    vertical-align: -4px;
+}
+.header_shop span{
+    font-size: 12px;
+    color: #b0b0b0;
+}
+.header_shop a:hover{
+    color: rgb(211, 114, 3);
+}
+.header_shop a:hover span{
+    color: rgb(211, 114, 3);
+}
+
+
+#nav{
+    height: 100px;
+    line-height: 100px;
+}
+.nav_logo img{
+    width: 55px;
+    height: 55px;
+    margin-top:20px;
+}
+.nav_logo ul{
+    margin-left: 263px;
+}
+#nav .nav_logo ul li a{
+    font-size: 16px;
+    color: #333333;
+}
+.nav_logo li{
+    margin-right: 36px;
+}
+.search{
+    width: 245px;
+    height: 50px;
+    border-right: 1px solid #e0e0e0;
+
+}
+.sub{
+    width: 50px;
+    height: 50px;
+    background: url(../img/search.jpg) no-repeat center;
+}
+input{border: 0;
+    outline: 0;
+}
+#nav p{
+    border: 1px solid #e0e0e0;
+    margin-top: 25px;
+}
+
+
+
+#samll{
+    height: 228px;
+    margin-top: 14px;
+}
+#samll .mar1{
+    margin-right:14px;
+}
+#samll .mar2{
+    margin-right: 15px;
+}
+#samll .mar3{
+    margin-right: 15px;
+}
+
+
+#pro{
+    height: 420px;
+}
+#pro h2{
+    font-size: 22px;
+    color: #333333;
+    font-weight: normal;
+}
+
+.pro_list{
+    margin-top: 20px;
+}
+.pro_list div{
+    width: 234px;
+    height: 339px;
+    background: #fafafa;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+.pro_list .list1{
+    margin-right: 14px;
+    border-top:1px solid #ffac13;
+}
+.pro_list .list1 img{
+    margin-top: 41px;
+    margin-left: 84px;
+    margin-bottom: 33px;
+}
+.pro_list h3{
+    font-size: 12px;
+    color: #212121;
+    font-weight: normal;
+    margin-bottom: 11px;
+}
+.pro_list p{
+    font-size: 12px;
+    color: #b0b0b0;
+    margin-bottom: 20px;
+}
+.pro_list span{
+    font-size: 12px;
+    color:#ff6709;
+}
+.pro_list .list2{
+    margin-right: 14px;
+    border-top:1px solid #83c44e;
+}
+.pro_list .list2 img{
+    margin: 51px 81px 53px 104px;
+}
+.pro_list .list3{
+    margin-right: 14px;
+    border-top:1px solid #2196f3;
+}
+.pro_list .list3 img{
+    margin-top: 83px;
+    margin-left: 61px;
+    margin-bottom: 46px;
+}
+.pro_list .list4{
+    margin-right: 14px;
+    border-top:1px solid #e53935;
+}
+.pro_list .list4 img{
+    margin-top: 65px;
+    margin-left: 61px;
+    margin-bottom: 52px;
+}
+.pro_list .list5{
+    border-top:1px solid #00c0a5;
+}
+.pro_list .list5 img{
+    margin-top: 55px;
+    margin-left: 59px;
+    margin-bottom: 52px;
+}
+
+
+#duct{
+    height: 4579px;
+    background: #f5f5f5;
+}
+.ai{
+    height: 772px;
+}
+.ai_header h2{
+    margin-top: 78px;
+    margin-left: 19px;
+}
+.ai_header span{
+    font-size: 16px;
+    color: #424242;
+    margin-right: 19px;
+    margin-top: 79px;
+}
+.ai_header span i{
+    font-size: 20px;
+    color: #b0b0b0;
+}
+
+.im1{
+    width: 234px;
+    height: 614px;
+    margin-top: 19px;
+    margin-left: 19px;
+    margin-right: 14px;
+}
+.im2{
+    width: 234px;
+    height: 300px;
+    margin-top: 19px;
+    margin-right: 14px;
+}
+.im3{
+    width: 234px;
+    height: 300px;
+    margin-top: 19px;
+    margin-right: 14px;
+}
+.im4{
+    width: 234px;
+    height: 300px;
+    margin-top: 19px;
+    margin-right: 14px;
+}
+.im5{
+    width: 234px;
+    height: 300px;
+    margin-top: 19px;
+   
+}
+.im6{
+    width: 234px;
+    height: 300px;
+    margin-top: 14px;
+}
+.im7{
+    width: 234px;
+    height: 300px;
+    margin-top: 14px;
+}
+.im8{
+    width: 234px;
+    height: 300px;
+    margin-top: 14px;
+}
+.im9{
+    width: 234px;
+    height: 300px;
+}

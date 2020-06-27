@@ -1,0 +1,51 @@
+{
+  "id": "1831803",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14421735",
+      "name": "放大镜",
+      "font_class": "fangdajing_huaban1",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "608317",
+      "name": "箭头",
+      "font_class": "jiantouarrow483",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "577907",
+      "name": "大于号",
+      "font_class": "dayuhao",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "608349",
+      "name": "箭头",
+      "font_class": "jiantouarrow484",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "10230513",
+      "name": "中国铁建_logo2",
+      "font_class": "zhongguotiejian_logo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13340231",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    }
+  ]
+}
